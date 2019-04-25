@@ -6,6 +6,6 @@ yarn
 sudo python https.py
 ```
 
->    Hit .   https://localhost
+>    Hit .   https://localhost    
 > Look for QT code in console log message of chrome
 
